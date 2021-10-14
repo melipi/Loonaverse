@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/loonaverse/static/css/main.36abb004.chunk.css",
+    "main.js": "/loonaverse/static/js/main.62948249.chunk.js",
+    "main.js.map": "/loonaverse/static/js/main.62948249.chunk.js.map",
+    "runtime-main.js": "/loonaverse/static/js/runtime-main.d9a9f625.js",
+    "runtime-main.js.map": "/loonaverse/static/js/runtime-main.d9a9f625.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/loonaverse/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.57bfd7f3.chunk.js": "/loonaverse/static/js/2.57bfd7f3.chunk.js",
+    "static/js/2.57bfd7f3.chunk.js.map": "/loonaverse/static/js/2.57bfd7f3.chunk.js.map",
+    "static/js/3.85f55de0.chunk.js": "/loonaverse/static/js/3.85f55de0.chunk.js",
+    "static/js/3.85f55de0.chunk.js.map": "/loonaverse/static/js/3.85f55de0.chunk.js.map",
+    "index.html": "/loonaverse/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/loonaverse/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.36abb004.chunk.css.map": "/loonaverse/static/css/main.36abb004.chunk.css.map",
+    "static/js/2.57bfd7f3.chunk.js.LICENSE.txt": "/loonaverse/static/js/2.57bfd7f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9a9f625.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.57bfd7f3.chunk.js",
+    "static/css/main.36abb004.chunk.css",
+    "static/js/main.62948249.chunk.js"
+  ]
+}
