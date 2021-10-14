@@ -21,7 +21,7 @@ function App() {
                 <div className='tc pa4'>
                     <img 
                         className='logo pb3' 
-                        src='./img/loona-logo.png' 
+                        src={process.env.PUBLIC_URL + `/img/loona-logo.png`} 
                         alt='loona logo' />
                     <SearchBox searchChange={onSearchChange} />
                     <CardList cardInfo={filteredMembers} />

@@ -4,83 +4,83 @@ export const members = [
       name: 'Heejin',
       color: 'Hot Pink',
       animal: 'Rabbit',
-      img: './img/heejin.png'
+      img: process.env.PUBLIC_URL + '/img/heejin.png'
     },
     {
       id: 2,
       name: 'Hyunjin',
       color: 'Yellow',
       animal: 'Cat',
-      img: './img/hyunjin.png'
+      img: process.env.PUBLIC_URL + '/img/hyunjin.png'
     },
     {
       id: 3,
       name: 'Haseul',
       color: 'Green',
       animal: 'White Bird',
-      img: './img/haseul.png'
+      img: process.env.PUBLIC_URL + '/img/haseul.png'
     },
     {
       id: 4,
       name: 'Yeojin',
       color: 'Orange',
       animal: 'Frog',
-      img: './img/yeojin.png'
+      img: process.env.PUBLIC_URL + '/img/yeojin.png'
     },
     {
       id: 5,
       name: 'ViVi',
       color: 'Light Pink',
       animal: 'Deer',
-      img: './img/vivi.png'
+      img: process.env.PUBLIC_URL + '/img/vivi.png'
     },
     {
       id: 6,
       name: 'Kim Lip',
       color: 'Red',
       animal: 'Owl',
-      img: './img/kimlip.png'
+      img: process.env.PUBLIC_URL + '/img/kimlip.png'
     },
     {
       id: 7,
       name: 'Jinsoul',
       color: 'Blue',
       animal: 'Blue Betta',
-      img: './img/jinsoul.png'
+      img: process.env.PUBLIC_URL + '/img/jinsoul.png'
     },
     {
       id: 8,
       name: 'Choerry',
       color: 'Purple',
       animal: 'Fruit Bat',
-      img: './img/choerry.png'
+      img: process.env.PUBLIC_URL + '/img/choerry.png'
     },
     {
       id: 9,
       name: 'Yves',
       color: 'Burgundy',
       animal: 'Swan',
-      img: './img/yves.png'
+      img: process.env.PUBLIC_URL + '/img/yves.png'
     },
     {
       id: 10,
       name: 'Chuu',
       color: 'Peach',
       animal: 'Penguin',
-      img: './img/chuu.png'
+      img: process.env.PUBLIC_URL + '/img/chuu.png'
     },
     {
       id: 11,
       name: 'Go Won',
       color: 'Eden Green',
       animal: 'Butterfly',
-      img: './img/gowon.png'
+      img: process.env.PUBLIC_URL + '/img/gowon.png'
     },
     {
       id: 12,
       name: 'Olivia Hye',
       color: 'Grey',
       animal: 'Wolf',
-      img: './img/oliviahye.png'
+      img: process.env.PUBLIC_URL + '/img/oliviahye.png'
     }
   ];
